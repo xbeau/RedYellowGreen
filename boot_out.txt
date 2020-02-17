@@ -1,0 +1,1 @@
+Adafruit CircuitPython 5.0.0-beta.5 on 2020-02-05; Adafruit CLUE nRF52840 Express with nRF52840
